@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gyan thakur and I'm a Computer engineering student, from Bihar.</h2>
+<h2 align="left">Hi 👋! My name is Gyan thakur and I'm a Computer engineeering student, from Bihar</h2>
 
 ###
 
