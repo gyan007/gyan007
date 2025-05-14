@@ -1,5 +1,3 @@
-Here's an updated and creative version of your profile:
-
 ---
 
 <h2 align="left">Hi 👋! I'm Gyan Thakur, a Computer Engineering student from Bihar, passionate about AI, ML, and all things tech! 🚀</h2>
@@ -65,4 +63,3 @@ Here's an updated and creative version of your profile:
 </div>
 
 ---
-
