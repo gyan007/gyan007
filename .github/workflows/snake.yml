@@ -21,7 +21,7 @@ jobs:
           github_user_name: gyan007
           outputs: dist/snake.svg
 
-      # Create a folder for the output
+      # Ensure output folder exists
       - name: Prepare output folder
         run: mkdir -p dist
 
@@ -29,11 +29,9 @@ jobs:
       - name: Move SVG
         run: mv snake.svg dist/snake.svg
 
-      # Push the result to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+      # Deploy to the main branch
+      - name: Push to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
