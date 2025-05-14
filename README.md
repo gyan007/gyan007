@@ -22,8 +22,6 @@ Here's an updated and creative version of your profile:
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="keras logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="scikit-learn logo" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
@@ -68,4 +66,3 @@ Here's an updated and creative version of your profile:
 
 ---
 
-Feel free to customize further!
