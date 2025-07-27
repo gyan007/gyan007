@@ -57,9 +57,3 @@
 
 ---
 
-<div align="center">
-  <h3>My Snake Animation 🐍</h3>
-  <img src="https://raw.githubusercontent.com/gyan007/gyan007/main/snake.svg" alt="Snake animation" />
-</div>
-
----
