@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/gyan007">
-    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="100px" alt="Gyan Thakur's Profile Picture"/>
+    <img src="https://avatars.githubusercontent.com/u/79900007?v=4" width="100px" alt="Gyan Thakur's Profile Picture"/>
   </a>
   <h1>👋 Hi there! I'm Gyan Thakur! 🚀</h1>
 </div>
