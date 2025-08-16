@@ -3,7 +3,7 @@
     <img src="https://avatars.githubusercontent.com/u/79900007?v=4" width="100px" alt="Gyan Thakur's Profile Picture"/>
   </a>
   <h1>👋 Hi there! I'm Gyan Thakur! 🚀</h1>
-</div>
+</div> 
 
 ---
 
