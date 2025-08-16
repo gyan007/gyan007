@@ -1,6 +1,6 @@
 ## 👋 Hi there\! I'm Gyan Thakur\! 🚀
 
-A passionate Computer Engineering student from Bihar, deeply immersed in the exciting worlds of AI, Machine Learning, and cutting-edge technology. My journey is fueled by curiosity and a drive to build innovative solutions.
+A passionate Computer Engineering student, deeply immersed in the exciting worlds of AI, Machine Learning, and cutting-edge technology. My journey is fueled by curiosity and a drive to build innovative solutions.
 
 -----
 
@@ -44,13 +44,13 @@ I'm always eager to collaborate on exciting projects, discuss new technologies, 
 \<a href="[https://www.linkedin.com/in/gyan-thakur-b90859203/](https://www.linkedin.com/in/gyan-thakur-b90859203/)"\>
 \<img src="[https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="LinkedIn logo" /\>
 \</a\>
-\<a href="mailto:gyan007@gmail.com"\>
+\<a href="mailto:gyanthakurthakur@gmail.com"\>
 \<img src="[https://img.shields.io/static/v1?message=Gmail\&logo=gmail\&label=\&color=D14836\&logoColor=white\&labelColor=\&style=for-the-badge](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="Gmail logo" /\>
 \</a\>
 \<a href="[https://discord.com/users/gyan007](https://discord.com/users/gyan007)"\>
 \<img src="[https://img.shields.io/static/v1?message=Discord\&logo=discord\&label=\&color=7289DA\&logoColor=white\&labelColor=\&style=for-the-badge](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="Discord logo" /\>
 \</a\>
-\<a href="[https://www.instagram.com/gyan007](https://www.instagram.com/gyan007)"\>
+\<a href="[https://www.instagram.com/sarcastic_introvert_007](https://www.instagram.com/gyan007)"\>
 \<img src="[https://img.shields.io/static/v1?message=Instagram\&logo=instagram\&label=\&color=E4405F\&logoColor=white\&labelColor=\&style=for-the-badge](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="Instagram logo" /\>
 \</a\>
 \</div\>
