@@ -35,7 +35,7 @@ I enjoy bringing ideas to life using a versatile set of tools and technologies:
 \</p\>
 
 -----
-
+ 
 ### Let's Connect\! 📱
 
 I'm always eager to collaborate on exciting projects, discuss new technologies, or simply share insights. Feel free to reach out through any of the platforms below:
